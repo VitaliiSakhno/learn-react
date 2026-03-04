@@ -1,0 +1,13 @@
+.title {
+  text-align: center;
+  color: beige;
+  font-style: italic;
+  font-size: 20px;
+}
+
+.scientists {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 30px;
+}

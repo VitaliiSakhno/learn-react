@@ -1,12 +1,11 @@
 import '../styles/App.css'
-
-import Profile from './Profile'
+import Gallery from './Gallery'
 
 function App() {
 
   return (
     <>
-      <Profile/>
+      <Gallery/>
     </>
   )
 }
