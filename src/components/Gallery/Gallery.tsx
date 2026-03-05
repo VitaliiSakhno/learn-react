@@ -1,5 +1,5 @@
-import Scientist from "./Scientist";
-import css from "../styles/Gallery.module.css"
+import Scientist from "../Scientist/Scientist";
+import css from "./Gallery.module.css"
 
 export default function Gallery() {
   return (

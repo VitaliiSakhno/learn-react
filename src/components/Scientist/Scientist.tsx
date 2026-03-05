@@ -1,4 +1,4 @@
-import css from "../styles/Scientist.module.css";
+import css from "./Scientist.module.css";
 
 export interface ScientistProps {
   src: string;

@@ -1,5 +1,5 @@
-import '../styles/App.css'
-import Gallery from './Gallery'
+import '../App/App.css'
+import Gallery from '../Gallery/Gallery'
 
 function App() {
 
