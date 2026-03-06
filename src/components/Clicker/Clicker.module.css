@@ -1,0 +1,12 @@
+.clickerButtonsContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+
+.clickerTitle {
+    font-size: 20px;
+    font-weight: 900;
+    color:mediumslateblue;
+}
